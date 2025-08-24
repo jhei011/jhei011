@@ -5,7 +5,7 @@
 -->
 
 ## 🧍🏻 About Me  
-- 🎒 I am a **BSIT student** at **Laguna Polytechnic University**  
+- 🎒 I am a **BSIT student** at **Laguna State Polytechnic University**  
 - 📕 I am currently learning **Python** and **C#**  
 - 🎯 Goal: *To become rich 😆*  
 - 🤔 Interested in **Game Development** and **UI/UX Design**  
